@@ -1,4 +1,4 @@
 Bingo
 =====
 
-Simple rmi application for playing bingo
+Simple rmi application for playing bing

@@ -1,7 +1,7 @@
 Bingo
 =====
 
-Simple rmi application for playing [bingo](http://en.wikipedia.org/wiki/Bingo_(U.S.))
+Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
 
 Contribution
 =============

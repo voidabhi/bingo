@@ -1,6 +1,8 @@
 Bingo
 =====
 
+![Bingo](http://stmaryslynn.org/wp-content/uploads/2010/06/Bingo-300x106.jpg)
+
 Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
 
 Contribution

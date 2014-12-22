@@ -7,7 +7,7 @@ Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bi
 
 Developed By
 =============
-`Abhijeet Mohan`
+`Abhijeet Mohan` - `void.aby@gmail.com`
 
 Contribution
 =============

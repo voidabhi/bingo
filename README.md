@@ -1,7 +1,7 @@
 Bingo
 =====
 
-![Bingo](http://stmaryslynn.org/wp-content/uploads/2010/06/Bingo-300x106.jpg)
+![Bingo](http://www.bingobonus.name/bingo_name.jpg)
 
 Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
 

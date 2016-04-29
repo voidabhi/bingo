@@ -1,12 +1,11 @@
-Bingo
-=====
+## Bingo
 
 ![Bingo](http://www.bingobonus.name/bingo_name.jpg)
 
 Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
 
-Developed By
-=============
+### Developed By
+
 `Abhijeet Mohan` - `void.aby@gmail.com`
 
 <a href="https://plus.google.com/104070882148677917719/about">
@@ -14,13 +13,11 @@ Developed By
        src="http://data.pkmmte.com/temp/social_google_plus_logo.png" />
 </a>
 
-Contribution
-=============
+### Contribution
 
 Feel free to send pull request
 
-License
-=======
+### License
 
 ```
 Copyright 2014 Abhijeet Mohan - https://github.com/voidabhi/bingo

@@ -2,7 +2,7 @@
 
 ![Bingo](http://www.bingobonus.name/bingo_name.jpg)
 
-Simple rmi application for playing [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
+Java (RMI) Implementation of [Bingo(Game)](http://en.wikipedia.org/wiki/Bingo_(U.S.))
 
 ### Developed By
 
